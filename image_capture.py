@@ -1,4 +1,4 @@
-
+# git clone https://github.com/Majdawad88/image_capture_py.git
 from picamera2 import Picamera2
 
 import cv2, time
